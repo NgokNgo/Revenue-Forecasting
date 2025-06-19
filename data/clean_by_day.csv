@@ -1,4 +1,4 @@
-Date,Year,Quarter,Month,Weekday,DayOfYear,TotalPrice
+Date,Year,Quarter,Month,Weekday,DayOfYear,Revenue
 2010-12-01,2010,4,12,2,335,35376.36
 2010-12-02,2010,4,12,3,336,35914.33
 2010-12-03,2010,4,12,4,337,19312.81
